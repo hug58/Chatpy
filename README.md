@@ -1,9 +1,11 @@
 # Chatpy
 chat maked with Tkinter, Sockets and Thread 
 
-* Conexión con varios clientes
+## 
+<img src="https://github.com/hug58/Chatpy/blob/master/screenshot.gif">
 
-##Proximo
+
+## Proximo
 
 * Ventana para Cambiar/Añadir nombres a usuarios
 
