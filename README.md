@@ -1,11 +1,14 @@
 # Chatpy
-chat maked with Tkinter, Sockets and Thread 
+Chat hecho con tkinter, sockets e hilos
 
 ## 
 <img src="https://github.com/hug58/Chatpy/blob/master/screenshot.gif">
 
 
-## Proximo
+## Inicialización
 
-* Ventana para Cambiar/Añadir nombres a usuarios
+* Inicia el server.py, luego los clientes 
+
+
+
 
